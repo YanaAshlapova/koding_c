@@ -34,10 +34,10 @@ int main()
     if (Discrim>0){
         x1=(-b+ sqrt(Discrim))/(2*a);
         x2=(-b- sqrt(Discrim))/(2*a);
-        printf("x1=%f x2=%f", x1, x2);
+        printf("x1=%f x2=%f\n", x1, x2);
     } else if (Discrim==0){
         x1=-b/(2*a);
-        printf("Один корень x1=%f", x1);
+        printf("Один корень x1=%f\n", x1);
     } else if (Discrim<0){
         printf("Нет корней\n");
     }
