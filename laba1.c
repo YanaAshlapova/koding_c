@@ -15,6 +15,7 @@ int main()
     float Discrim, x1, x2;
     int x;
     
+    do {
     printf("Введите первый коэфицент ");
     scanf("%f",&a);
     
@@ -27,7 +28,7 @@ int main()
 
     Discrim=b*b-4*a*c;
     
-    do {
+    
         
     
     if (Discrim>0){
