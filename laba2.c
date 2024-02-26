@@ -21,7 +21,6 @@ int main() {
         sum_pob += mas[i] [2-i];
     }
     
-
     printf("Сумма элементов главной диагонали:%lf\n",sum_main);
     printf("Сумма элементов побочной диагонали:%lf\n",sum_pob);
 
