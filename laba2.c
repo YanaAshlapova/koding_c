@@ -7,6 +7,7 @@ int main() {
 
     
     
+    
     printf("Введите элементы массива 3x3:\n");
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
