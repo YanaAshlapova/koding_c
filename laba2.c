@@ -4,6 +4,7 @@ int main() {
     double mas[3][3];
     double sum_main = 0.0;
     double sum_pob = 0.0;
+
     
     
     printf("Введите элементы массива 3x3:\n");
