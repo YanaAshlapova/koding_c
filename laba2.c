@@ -2,7 +2,6 @@
 
 
 
-
 int main() {
     double mas[3][3];
     double sum_main = 0.0;
