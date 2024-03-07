@@ -1,4 +1,5 @@
 
+
 #include <stdio.h>
 int main() {
     double mas[3][3];
