@@ -1,4 +1,4 @@
-лол
+глол
 
 
 #include <stdio.h>
