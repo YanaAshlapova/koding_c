@@ -1,6 +1,3 @@
-глол
-
-
 #include <stdio.h>
 #include "tr.h"
 
