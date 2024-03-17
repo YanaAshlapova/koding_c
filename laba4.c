@@ -1,4 +1,4 @@
-ол
+лол
 
 
 #include <stdio.h>
