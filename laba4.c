@@ -1,4 +1,4 @@
-енн
+ненн
 #include <stdio.h>
 #include "tr.h"
 
