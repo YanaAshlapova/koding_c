@@ -1,4 +1,3 @@
-ккненн
 #include <stdio.h>
 #include "tr.h"
 
