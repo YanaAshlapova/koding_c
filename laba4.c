@@ -1,4 +1,4 @@
-аууа
+цаууа
 #include <stdio.h>
 #include "tr.h"
 
