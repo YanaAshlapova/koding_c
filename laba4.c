@@ -1,4 +1,3 @@
-54321
 #include <stdio.h>
 #include "tr.h"
 
