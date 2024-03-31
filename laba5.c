@@ -1,4 +1,4 @@
-main.c 12345
+main.c
 
 #include <stdio.h>
 #include <stdlib.h>
