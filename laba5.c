@@ -1,4 +1,4 @@
-9876
+987
 main.c
 
 #include <stdio.h>
