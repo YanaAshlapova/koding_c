@@ -1,4 +1,4 @@
-98765432
+9876543
 main.c
 
 #include <stdio.h>
